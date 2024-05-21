@@ -1,6 +1,13 @@
-# HTPC Download Box
+not# HTPC Download Box
 
-Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
+Sonarr / Radarr / NZBGet / Plex / Bazarr
+
+## To Do
+
+Some stuff worth looking at that I do not use at the moment:
+
+- [Organizr](https://github.com/causefx/Organizr): Embed all these services in a single webpage with tab-based navigation
+- [Ombi](http://www.ombi.io/): Web UI to give your shared Plex instance users the ability to request new content
 
 TV shows and movies download, sort, with the desired quality and subtitles, behind a VPN (optional), ready to watch, in a beautiful media player.
 All automated.
